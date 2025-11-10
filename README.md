@@ -44,5 +44,5 @@ Locally preview production build:
 ```bash
 npm run preview
 ```
-
+SHA: b5ead038208788f66952ddc0ea757f13.764ff2a5e40eb25c865f07d38dafe9db
 Checkout the [deployment documentation](https://nuxt.com/docs/getting-started/deployment#presets) for more information.
